@@ -6,8 +6,8 @@
 <text x="56" y="55" font-size="13" class="label" font-weight="400">▪ LEARNING IN PUBLIC · PYTHON</text>
 <text x="56" y="138" font-size="48" class="" font-weight="700">陈民振</text>
 <text x="240" y="138" font-size="40" class="muted" font-weight="400">· Cmz9111</text>
-<text x="56" y="195" font-size="21" class="muted" font-weight="400">记录 PyTorch 与 FastAPI 的学习过程。</text>
-<text x="56" y="230" font-size="16" class="muted" font-weight="400">持续学习 · 实践记录 · 开源探索</text>
+<text x="56" y="195" font-size="21" class="muted" font-weight="400">构建Coding Agent，也持续向一线AI开源仓库贡献代码</text>
+<text x="56" y="230" font-size="16" class="muted" font-weight="400">2028届研究生在读，专注Agent harness/MCP/多智能体系统</text>
 <text x="56" y="330" font-size="13" class="label" font-weight="400">▪ MERGED PULL REQUESTS</text>
 <text x="745" y="330" font-size="13" class="muted" font-weight="400">github.com/Cmz9111</text>
 <path d="M56 352H944" stroke="#e8ecf1"/>
