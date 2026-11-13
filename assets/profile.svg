@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1320" viewBox="0 0 1000 1320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1384" viewBox="0 0 1000 1384" role="img" aria-labelledby="title desc">
 <title id="title">陈民振 · GitHub 个人主页</title>
-<desc id="desc">已合并 8 个 PR，近30天 8 个。PyTorch 与 FastAPI 学习项目。</desc>
+<desc id="desc">已合并 9 个 PR，近30天 9 个。PyTorch 与 FastAPI 学习项目。</desc>
 <rect width="100%" height="100%" fill="#ffffff"/>
 <style>text{font-family:Segoe UI,Arial,Microsoft YaHei,sans-serif;fill:#1f2328}.muted{fill:#697586}.label{fill:#8250df;font-family:monospace;letter-spacing:3px}.mono{font-family:monospace}</style>
 <text x="56" y="55" font-size="13" class="label" font-weight="400">▪ LEARNING IN PUBLIC · PYTHON</text>
@@ -11,48 +11,53 @@
 <text x="56" y="330" font-size="13" class="label" font-weight="400">▪ MERGED PULL REQUESTS</text>
 <text x="745" y="330" font-size="13" class="muted" font-weight="400">github.com/Cmz9111</text>
 <path d="M56 352H944" stroke="#e8ecf1"/>
-<text x="56" y="440" font-size="72" class="" font-weight="700">8</text>
+<text x="56" y="440" font-size="72" class="" font-weight="700">9</text>
 <text x="180" y="440" font-size="24" class="" font-weight="600">个 PR 已合并</text>
-<text x="56" y="478" font-size="16" class="muted" font-weight="400">8 个提给他人仓库 · 近 30 天 +8</text>
+<text x="56" y="478" font-size="16" class="muted" font-weight="400">9 个提给他人仓库 · 近 30 天 +9</text>
 <path d="M56 557H944" stroke="#e8ecf1"/>
-<circle cx="932" cy="548" r="4" fill="#8250df"/>
-<circle cx="932" cy="535" r="4" fill="#8250df"/>
-<circle cx="932" cy="522" r="4" fill="#8250df"/>
-<circle cx="932" cy="509" r="4" fill="#8250df"/>
-<circle cx="842" cy="548" r="4" fill="#8250df"/>
-<circle cx="842" cy="535" r="4" fill="#8250df"/>
-<circle cx="752" cy="548" r="4" fill="#8250df"/>
 <circle cx="902" cy="548" r="4" fill="#8250df"/>
-<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-14</text>
-<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-12</text>
+<circle cx="902" cy="535" r="4" fill="#8250df"/>
+<circle cx="902" cy="522" r="4" fill="#8250df"/>
+<circle cx="902" cy="509" r="4" fill="#8250df"/>
+<text x="896" y="490" font-size="10" class="label" font-weight="400">5</text>
+<circle cx="812" cy="548" r="4" fill="#8250df"/>
+<circle cx="812" cy="535" r="4" fill="#8250df"/>
+<circle cx="722" cy="548" r="4" fill="#8250df"/>
+<circle cx="872" cy="548" r="4" fill="#8250df"/>
+<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-15</text>
+<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-13</text>
 <text x="56" y="640" font-size="20" class="mono" font-weight="600">NPC-Worldwide/npcpy</text>
 <text x="720" y="640" font-size="17" class="" font-weight="400">3 个 PR</text>
-<text x="845" y="640" font-size="15" class="muted" font-weight="400">☆ 1527</text>
+<text x="845" y="640" font-size="15" class="muted" font-weight="400">☆ 1528</text>
 <path d="M56 664H944" stroke="#e8ecf1"/>
 <text x="56" y="704" font-size="20" class="mono" font-weight="600">assafelovic/gpt-researcher</text>
 <text x="720" y="704" font-size="17" class="" font-weight="400">2 个 PR</text>
-<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 30641</text>
+<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 30657</text>
 <path d="M56 728H944" stroke="#e8ecf1"/>
 <text x="56" y="768" font-size="20" class="mono" font-weight="600">polyuiislab/infiAgent</text>
 <text x="720" y="768" font-size="17" class="" font-weight="400">1 个 PR</text>
-<text x="845" y="768" font-size="15" class="muted" font-weight="400">☆ 1190</text>
+<text x="845" y="768" font-size="15" class="muted" font-weight="400">☆ 1191</text>
 <path d="M56 792H944" stroke="#e8ecf1"/>
-<text x="56" y="832" font-size="20" class="mono" font-weight="600">Shubhamsaboo/awesome-llm-apps</text>
+<text x="56" y="832" font-size="20" class="mono" font-weight="600">MervinPraison/PraisonAI</text>
 <text x="720" y="832" font-size="17" class="" font-weight="400">1 个 PR</text>
-<text x="845" y="832" font-size="15" class="muted" font-weight="400">☆ 144465</text>
+<text x="845" y="832" font-size="15" class="muted" font-weight="400">☆ 9336</text>
 <path d="M56 856H944" stroke="#e8ecf1"/>
-<text x="56" y="896" font-size="20" class="mono" font-weight="600">langgenius/dify-plugin-daemon</text>
+<text x="56" y="896" font-size="20" class="mono" font-weight="600">Shubhamsaboo/awesome-llm-apps</text>
 <text x="720" y="896" font-size="17" class="" font-weight="400">1 个 PR</text>
-<text x="845" y="896" font-size="15" class="muted" font-weight="400">☆ 460</text>
+<text x="845" y="896" font-size="15" class="muted" font-weight="400">☆ 144535</text>
 <path d="M56 920H944" stroke="#e8ecf1"/>
-<text x="56" y="990" font-size="13" class="label" font-weight="400">▪ LEARNING PROJECTS</text>
-<text x="56" y="1044" font-size="23" class="mono" font-weight="600">pytorch-learning</text>
-<text x="56" y="1073" font-size="16" class="muted" font-weight="400">记录pytorch的学习过程</text>
-<text x="835" y="1044" font-size="15" class="label" font-weight="400">Python</text>
-<text x="56" y="1128" font-size="23" class="mono" font-weight="600">FastAPI_first</text>
-<text x="56" y="1157" font-size="16" class="muted" font-weight="400">记录FastAPI的学习过程</text>
-<text x="835" y="1128" font-size="15" class="label" font-weight="400">Python</text>
-<path d="M56 1186H944" stroke="#e8ecf1"/>
-<text x="56" y="1215" font-size="12" class="muted" font-weight="400">GitHub API · 每日自动更新</text>
-<text x="700" y="1215" font-size="12" class="muted" font-weight="400">2026-11-12 08:30 UTC</text>
+<text x="56" y="960" font-size="20" class="mono" font-weight="600">langgenius/dify-plugin-daemon</text>
+<text x="720" y="960" font-size="17" class="" font-weight="400">1 个 PR</text>
+<text x="845" y="960" font-size="15" class="muted" font-weight="400">☆ 460</text>
+<path d="M56 984H944" stroke="#e8ecf1"/>
+<text x="56" y="1054" font-size="13" class="label" font-weight="400">▪ LEARNING PROJECTS</text>
+<text x="56" y="1108" font-size="23" class="mono" font-weight="600">pytorch-learning</text>
+<text x="56" y="1137" font-size="16" class="muted" font-weight="400">记录pytorch的学习过程</text>
+<text x="835" y="1108" font-size="15" class="label" font-weight="400">Python</text>
+<text x="56" y="1192" font-size="23" class="mono" font-weight="600">FastAPI_first</text>
+<text x="56" y="1221" font-size="16" class="muted" font-weight="400">记录FastAPI的学习过程</text>
+<text x="835" y="1192" font-size="15" class="label" font-weight="400">Python</text>
+<path d="M56 1250H944" stroke="#e8ecf1"/>
+<text x="56" y="1279" font-size="12" class="muted" font-weight="400">GitHub API · 每日自动更新</text>
+<text x="700" y="1279" font-size="12" class="muted" font-weight="400">2026-11-13 08:14 UTC</text>
 </svg>
