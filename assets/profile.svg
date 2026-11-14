@@ -15,24 +15,24 @@
 <text x="180" y="440" font-size="24" class="" font-weight="600">个 PR 已合并</text>
 <text x="56" y="478" font-size="16" class="muted" font-weight="400">9 个提给他人仓库 · 近 30 天 +9</text>
 <path d="M56 557H944" stroke="#e8ecf1"/>
-<circle cx="902" cy="548" r="4" fill="#8250df"/>
-<circle cx="902" cy="535" r="4" fill="#8250df"/>
-<circle cx="902" cy="522" r="4" fill="#8250df"/>
-<circle cx="902" cy="509" r="4" fill="#8250df"/>
-<text x="896" y="490" font-size="10" class="label" font-weight="400">5</text>
-<circle cx="812" cy="548" r="4" fill="#8250df"/>
-<circle cx="812" cy="535" r="4" fill="#8250df"/>
-<circle cx="722" cy="548" r="4" fill="#8250df"/>
 <circle cx="872" cy="548" r="4" fill="#8250df"/>
-<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-15</text>
-<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-13</text>
+<circle cx="872" cy="535" r="4" fill="#8250df"/>
+<circle cx="872" cy="522" r="4" fill="#8250df"/>
+<circle cx="872" cy="509" r="4" fill="#8250df"/>
+<text x="866" y="490" font-size="10" class="label" font-weight="400">5</text>
+<circle cx="782" cy="548" r="4" fill="#8250df"/>
+<circle cx="782" cy="535" r="4" fill="#8250df"/>
+<circle cx="692" cy="548" r="4" fill="#8250df"/>
+<circle cx="842" cy="548" r="4" fill="#8250df"/>
+<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-16</text>
+<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-14</text>
 <text x="56" y="640" font-size="20" class="mono" font-weight="600">NPC-Worldwide/npcpy</text>
 <text x="720" y="640" font-size="17" class="" font-weight="400">3 个 PR</text>
 <text x="845" y="640" font-size="15" class="muted" font-weight="400">☆ 1528</text>
 <path d="M56 664H944" stroke="#e8ecf1"/>
 <text x="56" y="704" font-size="20" class="mono" font-weight="600">assafelovic/gpt-researcher</text>
 <text x="720" y="704" font-size="17" class="" font-weight="400">2 个 PR</text>
-<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 30657</text>
+<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 30677</text>
 <path d="M56 728H944" stroke="#e8ecf1"/>
 <text x="56" y="768" font-size="20" class="mono" font-weight="600">polyuiislab/infiAgent</text>
 <text x="720" y="768" font-size="17" class="" font-weight="400">1 个 PR</text>
@@ -44,7 +44,7 @@
 <path d="M56 856H944" stroke="#e8ecf1"/>
 <text x="56" y="896" font-size="20" class="mono" font-weight="600">Shubhamsaboo/awesome-llm-apps</text>
 <text x="720" y="896" font-size="17" class="" font-weight="400">1 个 PR</text>
-<text x="845" y="896" font-size="15" class="muted" font-weight="400">☆ 144535</text>
+<text x="845" y="896" font-size="15" class="muted" font-weight="400">☆ 144602</text>
 <path d="M56 920H944" stroke="#e8ecf1"/>
 <text x="56" y="960" font-size="20" class="mono" font-weight="600">langgenius/dify-plugin-daemon</text>
 <text x="720" y="960" font-size="17" class="" font-weight="400">1 个 PR</text>
@@ -59,5 +59,5 @@
 <text x="835" y="1192" font-size="15" class="label" font-weight="400">Python</text>
 <path d="M56 1250H944" stroke="#e8ecf1"/>
 <text x="56" y="1279" font-size="12" class="muted" font-weight="400">GitHub API · 每日自动更新</text>
-<text x="700" y="1279" font-size="12" class="muted" font-weight="400">2026-11-13 08:14 UTC</text>
+<text x="700" y="1279" font-size="12" class="muted" font-weight="400">2026-11-14 07:42 UTC</text>
 </svg>
