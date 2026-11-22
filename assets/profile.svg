@@ -15,33 +15,33 @@
 <text x="180" y="440" font-size="24" class="" font-weight="600">个 PR 已合并</text>
 <text x="56" y="478" font-size="16" class="muted" font-weight="400">20 个提给他人仓库 · 近 30 天 +20</text>
 <path d="M56 557H944" stroke="#e8ecf1"/>
+<circle cx="842" cy="548" r="4" fill="#8250df"/>
+<circle cx="842" cy="535" r="4" fill="#8250df"/>
+<circle cx="842" cy="522" r="4" fill="#8250df"/>
+<circle cx="842" cy="509" r="4" fill="#8250df"/>
+<text x="836" y="490" font-size="10" class="label" font-weight="400">7</text>
 <circle cx="872" cy="548" r="4" fill="#8250df"/>
 <circle cx="872" cy="535" r="4" fill="#8250df"/>
 <circle cx="872" cy="522" r="4" fill="#8250df"/>
-<circle cx="872" cy="509" r="4" fill="#8250df"/>
-<text x="866" y="490" font-size="10" class="label" font-weight="400">7</text>
-<circle cx="902" cy="548" r="4" fill="#8250df"/>
-<circle cx="902" cy="535" r="4" fill="#8250df"/>
-<circle cx="902" cy="522" r="4" fill="#8250df"/>
-<circle cx="662" cy="548" r="4" fill="#8250df"/>
-<circle cx="662" cy="535" r="4" fill="#8250df"/>
-<circle cx="662" cy="522" r="4" fill="#8250df"/>
-<circle cx="662" cy="509" r="4" fill="#8250df"/>
-<text x="656" y="490" font-size="10" class="label" font-weight="400">5</text>
-<circle cx="572" cy="548" r="4" fill="#8250df"/>
-<circle cx="572" cy="535" r="4" fill="#8250df"/>
-<circle cx="752" cy="548" r="4" fill="#8250df"/>
-<circle cx="482" cy="548" r="4" fill="#8250df"/>
 <circle cx="632" cy="548" r="4" fill="#8250df"/>
-<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-23</text>
-<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-21</text>
+<circle cx="632" cy="535" r="4" fill="#8250df"/>
+<circle cx="632" cy="522" r="4" fill="#8250df"/>
+<circle cx="632" cy="509" r="4" fill="#8250df"/>
+<text x="626" y="490" font-size="10" class="label" font-weight="400">5</text>
+<circle cx="542" cy="548" r="4" fill="#8250df"/>
+<circle cx="542" cy="535" r="4" fill="#8250df"/>
+<circle cx="722" cy="548" r="4" fill="#8250df"/>
+<circle cx="452" cy="548" r="4" fill="#8250df"/>
+<circle cx="602" cy="548" r="4" fill="#8250df"/>
+<text x="56" y="585" font-size="12" class="muted" font-weight="400">2026-10-24</text>
+<text x="862" y="585" font-size="12" class="muted" font-weight="400">2026-11-22</text>
 <text x="56" y="640" font-size="20" class="mono" font-weight="600">zhayujie/CowAgent</text>
 <text x="720" y="640" font-size="17" class="" font-weight="400">6 个 PR</text>
-<text x="845" y="640" font-size="15" class="muted" font-weight="400">☆ 48026</text>
+<text x="845" y="640" font-size="15" class="muted" font-weight="400">☆ 48036</text>
 <path d="M56 664H944" stroke="#e8ecf1"/>
 <text x="56" y="704" font-size="20" class="mono" font-weight="600">langgenius/dify</text>
 <text x="720" y="704" font-size="17" class="" font-weight="400">4 个 PR</text>
-<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 161604</text>
+<text x="845" y="704" font-size="15" class="muted" font-weight="400">☆ 161647</text>
 <path d="M56 728H944" stroke="#e8ecf1"/>
 <text x="56" y="768" font-size="20" class="mono" font-weight="600">NPC-Worldwide/npcpy</text>
 <text x="720" y="768" font-size="17" class="" font-weight="400">3 个 PR</text>
@@ -49,7 +49,7 @@
 <path d="M56 792H944" stroke="#e8ecf1"/>
 <text x="56" y="832" font-size="20" class="mono" font-weight="600">assafelovic/gpt-researcher</text>
 <text x="720" y="832" font-size="17" class="" font-weight="400">2 个 PR</text>
-<text x="845" y="832" font-size="15" class="muted" font-weight="400">☆ 30807</text>
+<text x="845" y="832" font-size="15" class="muted" font-weight="400">☆ 30825</text>
 <path d="M56 856H944" stroke="#e8ecf1"/>
 <text x="56" y="896" font-size="20" class="mono" font-weight="600">polyuiislab/infiAgent</text>
 <text x="720" y="896" font-size="17" class="" font-weight="400">1 个 PR</text>
@@ -57,7 +57,7 @@
 <path d="M56 920H944" stroke="#e8ecf1"/>
 <text x="56" y="960" font-size="20" class="mono" font-weight="600">MervinPraison/PraisonAI</text>
 <text x="720" y="960" font-size="17" class="" font-weight="400">1 个 PR</text>
-<text x="845" y="960" font-size="15" class="muted" font-weight="400">☆ 9375</text>
+<text x="845" y="960" font-size="15" class="muted" font-weight="400">☆ 9378</text>
 <path d="M56 984H944" stroke="#e8ecf1"/>
 <text x="56" y="1054" font-size="13" class="label" font-weight="400">▪ LEARNING PROJECTS</text>
 <text x="56" y="1108" font-size="23" class="mono" font-weight="600">pytorch-learning</text>
@@ -68,5 +68,5 @@
 <text x="835" y="1192" font-size="15" class="label" font-weight="400">Python</text>
 <path d="M56 1250H944" stroke="#e8ecf1"/>
 <text x="56" y="1279" font-size="12" class="muted" font-weight="400">GitHub API · 每日自动更新</text>
-<text x="700" y="1279" font-size="12" class="muted" font-weight="400">2026-11-21 08:26 UTC</text>
+<text x="700" y="1279" font-size="12" class="muted" font-weight="400">2026-11-22 08:18 UTC</text>
 </svg>
